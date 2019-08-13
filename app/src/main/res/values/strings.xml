@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyTestWeatherApp</string>
+    <string name="post_error">Something went wrong</string>
+    <string name="retry">Retry</string>
+    <string name="add_city">Add city</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="save">save</string>
+    <string name="no_city_select">No city select</string>
+    <string name="need_map_access">Приложению нужен доступ к вашей локации</string>
+</resources>
